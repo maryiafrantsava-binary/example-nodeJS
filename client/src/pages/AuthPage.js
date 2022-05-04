@@ -32,7 +32,7 @@ export const AuthPage = () => {
     }
     return (
         <div className="row">
-            <div className="col s6 offset-s3" style={{marginTop: 200}}></div>
+            <div className="col s6 offset-s3" style={{marginTop: 200}}>
                 <input
                     placeholder="email"
                     id="email"
