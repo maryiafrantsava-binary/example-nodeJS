@@ -1,0 +1,5 @@
+{
+  "port": 8000,
+  "jwtSecret": "mariyaf example-nodejs",
+  "mongoUri": "mongodb+srv://mariyaf:9F9HY69NiT2DNgDb@cluster0.qwc0e.mongodb.net/example-nodejs?retryWrites=true&w=majority"
+}
